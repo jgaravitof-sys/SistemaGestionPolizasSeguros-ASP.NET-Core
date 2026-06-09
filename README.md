@@ -82,8 +82,7 @@ Entidades principales:
 ---
 
 ## Estado del Proyecto
-
-🚧 En desarrollo
+En desarrollo
 
 Actualmente se encuentra implementada la capa de datos y el modelo de dominio. Se está desarrollando el módulo CRUD de Clientes.
 
